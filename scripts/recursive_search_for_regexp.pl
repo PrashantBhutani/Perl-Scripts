@@ -1,5 +1,21 @@
 #! /usr/bin/perl
 
+
+###################################################################################
+### This program is copyright (c) by                    						###
+### Prashant Bhutani <prashantbhutani2008@gmail.com>            				###
+### 2011-2020 or stated otherwise.                      						###
+###						                                        				###
+### This program is free software. You can redistribute it and/or modify it     ###
+### under the terms of version 2 of the GNU General Public License, which you   ###
+### should have received with it.                       						###
+###								                                        		###
+### This program is distributed in the hope that it will be useful, but 		###
+### without any warranty, expressed or implied.             					###
+###################################################################################
+
+
+
 # usage is as or perl file_name  starting_directory_address  search_pattern
 # or another way is to first make the perl file executable by switching on the executable bit
 # chmod u+x file_name; ./file_name  starting_directory_address  search_pattern
